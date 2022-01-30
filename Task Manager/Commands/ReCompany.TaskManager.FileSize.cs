@@ -3,7 +3,7 @@ using System.IO;
 
 namespace Task_Manager
 {
-    internal class FileSize
+    internal sealed class FileSize
     {
         public static void File_Size() //Узнать размер и атрибуты файлы
         {
