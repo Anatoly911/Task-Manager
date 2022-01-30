@@ -3,7 +3,7 @@ using System.IO;
 
 namespace Task_Manager
 {
-    internal class DirInfo
+    internal sealed class DirInfo
     {
         public static void Tree()   //Отрытие дерева диска 
         {
