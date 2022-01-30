@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Task_Manager
 {
-    internal class Help
+    internal sealed class Help
     {
         public static void Helping()
         {
