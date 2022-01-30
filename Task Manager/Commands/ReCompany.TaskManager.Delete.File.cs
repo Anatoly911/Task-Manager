@@ -3,7 +3,7 @@ using System.IO;
 
 namespace Task_Manager
 {
-    internal class DeleteFile
+    internal sealed class DeleteFile
     {
         public static string Delete_File() // удаление файла
         {
