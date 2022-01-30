@@ -3,7 +3,7 @@ using System.IO;
 
 namespace Task_Manager
 {
-    internal class CopyFile
+    internal sealed class CopyFile
     {
         public static void Copy_File() // Копирование файла
         {
