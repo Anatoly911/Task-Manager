@@ -5,7 +5,7 @@ using System.Text.Json;
 
 namespace Task_Manager
 {
-    internal class SaveData
+    internal sealed class SaveData
     {
         public static void Save() // Сохранение данных в текстовый документ
         {
