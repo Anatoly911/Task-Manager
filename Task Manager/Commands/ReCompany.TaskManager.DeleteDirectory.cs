@@ -3,7 +3,7 @@ using System.IO;
 
 namespace Task_Manager
 {
-    internal class DeleteDirect
+    internal sealed class DeleteDirect
     {
         public static string DeleteDir() // Удаление каталога
         {
