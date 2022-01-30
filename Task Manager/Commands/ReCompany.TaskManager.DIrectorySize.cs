@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace Task_Manager
 {
-    internal class DirectorySize
+    internal sealed class DirectorySize
     {
         public static void Directory_Size()  // Информация про папку
         {
